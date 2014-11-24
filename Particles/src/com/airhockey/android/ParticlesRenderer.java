@@ -96,6 +96,6 @@ public class ParticlesRenderer implements Renderer {
 		particlesSystem.bindData(particleShaderProgram);
 		particlesSystem.draw();
 
-		//Git
+		
 	}
 }
